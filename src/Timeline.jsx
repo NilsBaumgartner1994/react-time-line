@@ -17,7 +17,7 @@ function getFormattedData(items) {
     const dateStr = date.format("DD MMM YYYY");
     const list = activities[dateStr] || [];
     list.push({
-      time: "Test",
+      time: date.format("HH:MM"),
       text,
       key: index,
     });
