@@ -4,6 +4,8 @@
 
 A react component to display event in a vertical timeline format. This is based on the timeline found in [AdminLte](https://github.com/almasaeed2010/AdminLTE).
 
+Live example [**here**](https://codesandbox.io/s/react-timeline-2y11e).
+
 ![alt tag](https://github.com/arunghosh/react-time-line/raw/master/docs/timeline.png)
 
 **Installation**
@@ -51,3 +53,4 @@ To run test
 npm run test
 ```
 
+<a href="https://www.buymeacoffee.com/arunghosh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
